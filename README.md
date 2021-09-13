@@ -1,3 +1,7 @@
+```
+nvm use 8
+```
+
 # &lt;markdown-deck />
 
 [![npm version][npm-src]][npm-href]

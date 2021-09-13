@@ -51,7 +51,7 @@ export class MarkdownSlide extends LitElement {
     return html`
       <div class=${classMap(classNames)}>
         <style>
-          .slide { background-color: white }
+          .slide { background-color: #FBF1D3 }
           .content { transform: scale(${this._scale}) }
           ${this.css}
         </style>

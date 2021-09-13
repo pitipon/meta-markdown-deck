@@ -1,8 +1,8 @@
 {
-  "name": "markdown-deck",
-  "version": "1.7.4",
+  "name": "meta-markdown-deck",
+  "version": "1.0.0",
   "description": "A web component for presenters",
-  "repository": "amio/markdown-deck",
+  "repository": "pitipon/meta-markdown-deck",
   "main": "dist/markdown-deck.min.js",
   "unpkg": "dist/markdown-deck.min.js",
   "license": "MIT",
