@@ -1,6 +1,6 @@
 {
   "name": "meta-markdown-deck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web component for presenters",
   "repository": "pitipon/meta-markdown-deck",
   "main": "dist/markdown-deck.min.js",
