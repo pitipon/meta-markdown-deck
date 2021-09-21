@@ -10,7 +10,7 @@ export default css`
 code[class*="language-"],
 pre[class*="language-"] {
 	color: black;
-	background: none;
+	background: rgba(255,255,255,0.5);
 	text-shadow: 0 1px white;
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	font-size: 1em;
