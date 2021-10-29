@@ -1,6 +1,16 @@
+### Note
+
+#### Development
+* Setup as node 8
 ```
 nvm use 8
 ```
+
+#### Publish to npm
+* Change version of package
+* `npm run build`
+* `npm login`
+* `npm publish`
 
 # &lt;markdown-deck />
 
