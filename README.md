@@ -12,6 +12,9 @@ nvm use 8
 * `npm login`
 * `npm publish`
 
+#### Support language by Prism.js
+https://prismjs.com/
+
 # &lt;markdown-deck />
 
 [![npm version][npm-src]][npm-href]
